@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871752613509",
+    "project_id": "dispatcher-fad5c",
+    "storage_bucket": "dispatcher-fad5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871752613509:android:45eb0c34b6bcc98b59b3ec",
+        "android_client_info": {
+          "package_name": "com.dispatcher_hamzamaswedah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871752613509-da81b6d23l48k2vqlmmdpe2d69m7m580.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeV_NvTD9x9_5UDOC4Np25rtOeds5AiWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871752613509-da81b6d23l48k2vqlmmdpe2d69m7m580.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
